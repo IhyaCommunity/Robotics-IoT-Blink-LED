@@ -4,13 +4,14 @@ Blink LED using Raspberry Pi, Node.JS and Johnny-Five. "Hello World" (Salam!) of
 
 This demo  presented at the Robotics &amp; IoT Workshop.
 
-#### Follow these steps to run the project
+### Follow these steps to run the project
 
 1) Copy and paste this folder to Raspberry Pi using VNC Server (TigerVNC Viewer), or download the source code directly using Chromium web browser in Raspberry Pi.
 
 2) If not already installed, install Node.JS in Raspberry Pi using the command below:
 
     `curl -sL https://deb.nodesource.com/setup_9.x | sudo -E bash -`
+    
     `sudo apt install -y nodejs`
 
 3) In Raspberry Pi Terminal, move to the directory which contains these code files
@@ -36,7 +37,7 @@ Note: It is recommended to install node modules (packages) for each project sepa
 Good Luck! 👍
 
 
-#### Resources
+### Resources
 
 
 **Workshop Slides**
