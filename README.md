@@ -2,7 +2,7 @@
 ## Blink LED
 Blink LED using Raspberry Pi, Node.JS and Johnny-Five. "Hello World" (Salam!) of Electronics! 😄
 
-This demo  originally presented at the Robotics &amp; IoT Workshop.
+This demo originally presented at the Robotics &amp; IoT Workshop.
 
 ### Follow these steps to run the project
 
@@ -27,7 +27,7 @@ This demo  originally presented at the Robotics &amp; IoT Workshop.
 
 5) Run the script
 
-    `sudo $(which node) car.js`
+    `sudo $(which node) blink.js`
 
 
 If everything works fine, it should create a folder named `node_modules` in the project directory.
