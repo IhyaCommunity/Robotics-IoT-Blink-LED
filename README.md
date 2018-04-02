@@ -2,7 +2,7 @@
 ## Blink LED
 Blink LED using Raspberry Pi, Node.JS and Johnny-Five. "Hello World" (Salam!) of Electronics! 😄
 
-This demo  presented at the Robotics &amp; IoT Workshop.
+This demo  originally presented at the Robotics &amp; IoT Workshop.
 
 ### Follow these steps to run the project
 
