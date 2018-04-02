@@ -1,7 +1,7 @@
 {
   "name": "blink-led",
   "version": "1.0.0",
-  "description": "Blink LED using Raspberry Pi, Node.JS and Johnny-Five. Demo presented at the Robotics &amp; IoT Workshop.",
+  "description": "Blink LED using Raspberry Pi. Demo presented at the Robotics &amp; IoT Workshop.",
   "main": "blink.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
